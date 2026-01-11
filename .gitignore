@@ -1,0 +1,12 @@
+# Global cache
+.cache/
+.zsh_history
+
+# Backup files
+*.bak
+
+# App runtime / cache (DO NOT TRACK)
+.config/vesktop/sessionData/
+.config/vesktop/Cache/
+.config/**/Cache/
+.config/**/cache/
